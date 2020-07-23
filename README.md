@@ -6,9 +6,9 @@
 ```
   SERVER_PORT=3000
   DB_HOST=localhost
-  DB_USER=root
-  DB_PASSWORD=root
-  DB_NAME=depok_news
+  DB_USER=YOUR_DB_USER
+  DB_PASSWORD=YOUR_PASSWORD
+  DB_NAME=YOUR_DATABASE
   DB_PORT=3306
 ```
 3. node server.js
