@@ -1,0 +1,24 @@
+{
+  "name": "example-rest-api-fastify-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omadijaya/example-rest-api-fastify-mysql.git"
+  },
+  "author": "Omadi Jaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omadijaya/example-rest-api-fastify-mysql/issues"
+  },
+  "homepage": "https://github.com/omadijaya/example-rest-api-fastify-mysql#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fastify": "^3.1.1",
+    "mysql2": "^2.1.0"
+  }
+}
